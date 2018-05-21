@@ -1,0 +1,10 @@
+/bin/
+*.orig
+*.project
+*.classpath
+*.csv
+**/.settings/**
+**/test-output/**
+**/target/**
+**/.metadata/**
+**/.idea/**
